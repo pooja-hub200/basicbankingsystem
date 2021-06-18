@@ -1,0 +1,36 @@
+	body, html {
+  height: 102%;
+}
+
+.bg {
+  /* The image used */
+  background-image:url("finalpic.jpeg");
+
+  /* Full height */
+  height: 105%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+	.floated {
+   float:right;
+   margin-right:5px;
+
+   
+}
+.m{
+	margin-top: 10px;
+}
+.font{
+	 font-family: 'Adamina';font-size: 22px;
+	 color:white;
+	 background-color:purple;
+}
+.transfer{
+	 color:white; 
+	 margin-top:5px; 
+	 background-color:purple;
+	 font-family: 'Adamina';font-size: 40px; 
+ }
